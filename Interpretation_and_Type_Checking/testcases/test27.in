@@ -1,0 +1,5 @@
+int a, b, c, d;
+Print(a);
+Print(b);
+Print(c);
+Print(d);

@@ -1,0 +1,13 @@
+int a;
+a = 0;
+
+while (a < 10) {
+	if (a < 9) {
+		Println(a);
+	}
+	else {
+		int a;
+		Println(a);
+	}
+	a = a + 1;
+}

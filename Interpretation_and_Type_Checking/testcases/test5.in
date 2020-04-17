@@ -1,0 +1,7 @@
+int a;
+if (false) {
+	a = 5;
+}
+else {
+	a = 5;
+}

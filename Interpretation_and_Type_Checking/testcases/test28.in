@@ -1,0 +1,13 @@
+int a;
+int b;
+
+b = 0;
+while (b < 5) {
+	if (b < 2) {
+		Print(a);
+	}
+	else {
+		a = 5;
+	}
+	b = b + 1;
+}

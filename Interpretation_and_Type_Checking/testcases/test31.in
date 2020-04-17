@@ -1,0 +1,10 @@
+int a;
+
+{
+	int a;
+	a = 5;
+	Println(a);
+}
+	
+Println(a);
+

@@ -1,0 +1,42 @@
+test for parsing (10pts, 2 each)
+ 1. error: use number as identifier in declaration.
+ 2. error: use key word as identifier in declaration.
+ 3. test for parsing declaration.
+ 4. test for parsing declaration and assignment.
+ 5. test for parsing if with const condition.
+
+test for execution (30pts, 3 each)
+ 6. print simple things.
+ 7. print simple variables.
+ 8. print result of simple expressions.
+ 9. test for scoping.
+10. test for scoping with while and if.
+11. test for scoping with while and if.
+12. test for scoping with nested while.
+13. test for scoping with nested SUM instruction.
+14. test for scoping with while and SUM instruction.
+15. test for scoping with while condition.
+
+test for type violation (20 pts, 2 each)
+16. very simple type error.
+17. multiple simple type error.
+18. type error stops execution.
+19. different type in different scope.
+20. different type in different scope.
+21. undefined variable.
+22. type violation in branches.
+23. counting number of type violation.
+24. wrong type on if/while condition.
+25. type error about binary.
+
+test for uninitialized variables (20 pts, 2 each)
+26. report simple uninitialized variable
+27. multiple uninitialized variable
+28. branching
+29. branching
+30. scoping
+31. scoping
+32. scoping with if
+33. scoping with while and if
+34. print null string
+35. scoping with SUM

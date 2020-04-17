@@ -1,0 +1,26 @@
+int a, b;
+b = 1000;
+a = 0;
+while (a < 2) {
+	int b;
+	b = 0;
+	while (b < 2) {
+		int a;
+		a = 0;
+		while (a < 2) {
+			int b;
+			b = 0;
+			while (b < 2) {
+				Println("D", a, b);
+				b = b + 1;
+			}
+			Println("C", a, b);
+			a = a + 1;
+		}
+		Println("B", a, b);
+		b = b + 1;
+	}
+	Println("A", a, b);
+	a = a + 1;
+}
+Println("X", a, b);

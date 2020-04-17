@@ -1,0 +1,15 @@
+int i;
+i = 0;
+
+while (i < 5) {
+	int j, k;
+	j = 1;
+	k = 0;
+	while (j <= 5) {
+		k = k + i + j;
+		j = j + 1;
+	}
+	Println(k, for j in [1, 5] SUM (i + j));
+
+	i = i + 1;
+}

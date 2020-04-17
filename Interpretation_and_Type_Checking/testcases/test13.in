@@ -1,0 +1,6 @@
+int i, j, a;
+i = 3;
+j = 3;
+a = for i in [1, 2] SUM (for j in [1, 2] SUM (i * j));
+Println(i, "*", j, "=", a);
+

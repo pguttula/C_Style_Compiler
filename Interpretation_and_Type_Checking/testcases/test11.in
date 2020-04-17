@@ -1,0 +1,20 @@
+int a;
+bool assigned;
+
+a = 0;
+assigned = false;
+
+while (a < 10) {
+	if (true) {
+		int c;
+		if (assigned) {
+			c = c + 1;
+		}
+		else {
+			assigned = true;
+			c = 0;
+		}
+		Print(c);
+	}
+	a = a + 1;
+}

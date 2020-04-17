@@ -1,0 +1,3 @@
+int i;
+Println(for i in [0, 1] SUM (i));
+Println(i);

@@ -1,0 +1,17 @@
+int a;
+bool b;
+a = 0;
+b = true;
+while (a < 10) {
+	if (b) {
+		b = false;
+		int a;
+		a = 5;
+		Println(a);
+	}
+	else {
+		b = true;
+		Println(a);
+		a = a + 1;
+	}
+}

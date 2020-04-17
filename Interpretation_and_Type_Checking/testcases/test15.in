@@ -1,0 +1,21 @@
+
+bool b;
+int i;
+
+b = true;
+i = 0;
+
+while (b) {
+	{
+		bool c;
+		c = i < 5;
+		{
+			bool b;
+			b = i >= 5;
+			Println(b);
+		}
+		b = c;
+	}
+	i = i + 1;
+}
+Println(i);

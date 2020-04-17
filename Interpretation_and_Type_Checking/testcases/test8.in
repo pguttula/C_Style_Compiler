@@ -1,0 +1,40 @@
+Println((1 == 1) && (2 == 1), (1 == 1) || (2 == 1));
+Println(2 + 2 * 2, (2 - 2) * 2);
+Println("hello" || "world");
+
+Println(true && false);
+Println(false && true);
+Println(true || false);
+Println(false || true);
+
+Println(1 < 1);
+Println(1 > 1);
+Println(1 <= 1);
+Println(1 >= 1);
+
+Println(1 < 2);
+Println(1 > 2);
+Println(1 <= 2);
+Println(1 >= 2);
+
+Println(2 < 1);
+Println(2 > 1);
+Println(2 <= 1);
+Println(2 >= 1);
+
+Println(1 == 1);
+Println(1 != 1);
+
+Println(1 == 2);
+Println(1 != 2);
+
+Println(2 == 1);
+Println(2 != 1);
+
+Println(16 + 15);
+Println(16 - 15);
+
+Println(3 * 5);
+Println(0 * 5);
+Println(3 * 0);
+Println(0 * 0);

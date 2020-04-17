@@ -1,0 +1,24 @@
+1.test for assignment and print
+2.test for integer binary operation
+3.test for assign multiple times
+4.test for compound statements
+5.test for nested compound statements
+
+6.test for if statements and logic expressions
+7.test for if statements with compound statements
+8.test for complex boolean binary expressions
+9.test for nested if statements
+
+10.test for while statements
+11.test for while statements with compound statements
+12.test for nested while statements
+13.test for nested while statements with if statements
+
+14.test for error reporting
+15.another test for error reporting
+
+16.test for reporting syntax error
+17.test for reporting syntax error: if missing then branch
+18.test for reporting syntax error: empty compound statements
+19.test for reporting syntax error: while with nested empty compound statements
+20.test for reporting syntax error: very deep if/while
